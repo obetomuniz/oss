@@ -8,7 +8,7 @@ A project to help OSS creators to easily kickstart an OSS project.
 
 - [Wiki](https://github.com/obetomuniz/oss-template/wiki)
 - [Discussions](https://github.com/obetomuniz/oss-template/discussions)
-- [Task Board](https://github.com/users/obetomuniz/projects/1/views/1)
+- [Board](https://github.com/users/obetomuniz/projects/1/views/1)
 - Doc Files
   - [README.md](https://github.com/obetomuniz/oss-template/blob/main/README.md)
   - [LICENSE.md](https://github.com/obetomuniz/oss-template/blob/main/LICENSE.md)
