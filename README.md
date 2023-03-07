@@ -23,6 +23,6 @@ A project to help OSS creators to easily kickstart an OSS project.
 - [Pull Request Template](https://github.com/obetomuniz/oss-template/blob/main/.github/PULL_REQUEST_TEMPLATE.md)
 - [Labels](https://github.com/obetomuniz/oss-template/labels)
 
-## 🍒 Extras
+### 🍒 Extras
 
 - **[Notion's Core Contributors Management Space](https://oss-template.notion.site/Beto-Muniz-s-OSS-Template-55d929b001304061947a06718a7fec6e)**
