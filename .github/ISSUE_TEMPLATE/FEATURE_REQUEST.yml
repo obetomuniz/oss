@@ -1,0 +1,17 @@
+name: Feature Request
+description: File a feature request ticket
+title: "[REQUEST]: "
+labels: ["feature request"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to fill out this feature request ticket!
+  - type: textarea
+    id: summary
+    attributes:
+      label: "Summary"
+      description: Explain with ALL DETAILS POSSIBLE why you are requesting this feature. 
+      placeholder: Try to create examples and link other issues, questions and bugs related to help you argument why this feature is necessary
+    validations:
+      required: true
