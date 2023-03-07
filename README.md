@@ -1,3 +1,3 @@
 # oss-template
 
-A project to help OSS creators to easily kickstart the management part of an OSS project.
+A project to help OSS creators to easily kickstart an OSS project.
