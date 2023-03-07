@@ -22,4 +22,4 @@ A project to help OSS creators to easily kickstart an OSS project.
   - [.github/ISSUE_TEMPLATE/FEATURE_REQUEST.yml](https://github.com/obetomuniz/oss-template/blob/main/.github/ISSUE_TEMPLATE/FEATURE_REQUEST.yml)
 - [Pull Request Template](https://github.com/obetomuniz/oss-template/blob/main/.github/PULL_REQUEST_TEMPLATE.md)
 - [Labels](https://github.com/obetomuniz/oss-template/labels)
-- **[Core Contributors Management Space on Notion](https://oss-template.notion.site/Checklist-b88d98ec49204ef3b8bc7d937b5dcf2a)**
+- **[Core Contributors Management Space on Notion](https://oss-template.notion.site/Project-55d929b001304061947a06718a7fec6e)**
