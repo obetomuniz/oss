@@ -1,6 +1,6 @@
 This PR introduces...
 
-## Demo
+### Demos
 
 _If applicable, add here screenshots and videos with the changes._
 
