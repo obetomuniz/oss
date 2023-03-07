@@ -4,7 +4,7 @@
 
 A project to help OSS creators to easily kickstart an OSS project.
 
-## 🗺️ Project Map
+### 🗺️ Project Map
 
 - [Wiki](https://github.com/obetomuniz/oss-template/wiki)
 - [Discussions](https://github.com/obetomuniz/oss-template/discussions)
