@@ -1,6 +1,6 @@
 > _"Great OSS projects aren't just code." - [@gitlab](https://about.gitlab.com/blog/2022/10/18/how-to-start-a-great-oss-project/#great-oss-projects-arent-just-code)_
 
-# oss
+# OSS
 
 A project to help OSS creators to easily kickstart OSS projects.
 
