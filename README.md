@@ -25,4 +25,4 @@ A project to help OSS creators to easily kickstart OSS projects.
 
 ### 🍒 Extras
 
-- **[Notion's Core Contributors Management Space](https://oss-template.notion.site/Beto-Muniz-s-OSS-Template-55d929b001304061947a06718a7fec6e)**
+- **[Notion's Core Contributors Management Space](https://oss-template.notion.site/Beto-Muniz-s-OSS-55d929b001304061947a06718a7fec6e)**
