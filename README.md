@@ -13,7 +13,7 @@ A project to help OSS creators to easily kickstart OSS projects.
   - [README.md](https://github.com/obetomuniz/oss-template/blob/main/README.md)
   - [LICENSE.md](https://github.com/obetomuniz/oss-template/blob/main/LICENSE.md)
   - [docs/CODE_OF_CONDUCT.md](https://github.com/obetomuniz/oss-template/blob/main/docs/CODE_OF_CONDUCT.md)
-  - [docs/SECURITY.md](https://github.com/obetomuniz/oss-template/blob/main/docs/SECURITY.MD)
+  - [docs/SECURITY.md](https://github.com/obetomuniz/oss-template/blob/main/docs/SECURITY.md)
   - [docs/CONTRIBUTING.md](https://github.com/obetomuniz/oss-template/blob/main/docs/CONTRIBUTING.md)
   - [docs/CHANGELOG.md](https://github.com/obetomuniz/oss-template/blob/main/docs/CHANGELOG.md)
   - [docs/SUPPORT.md](https://github.com/obetomuniz/oss-template/blob/main/docs/SUPPORT.md)
